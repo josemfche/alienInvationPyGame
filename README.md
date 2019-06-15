@@ -6,3 +6,5 @@
 - El archivo principal es alien_invasion, los demás son módulos, colocar todos los archivos en la misma carpeta y ejecutar alien_invasion.
 
 - Código comentado en inglés.
+
+- Las imagenes .bmp se colocan en una subcarpeta images
